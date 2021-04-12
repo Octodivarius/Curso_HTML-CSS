@@ -11,12 +11,7 @@ p {
 
 /* Id */
 
-#lista1 {    
+#texto {    
     color: red;
-    font-size: xx-large;
-}
-
-#lista2 {    
-    color: rgb(0, 255, 234);
-    font-size: x-small;
+    font-size: x-large;
 }
