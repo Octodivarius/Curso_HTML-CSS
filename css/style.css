@@ -25,7 +25,7 @@ p {
     
 }
 
-#frutas {    
+#frutas2 {    
     color: rgb(255, 145, 0);
     font-size: x-large;
     text-emphasis-color: 25;
@@ -33,6 +33,11 @@ p {
 
 #carnes {    
     color: rgb(0, 132, 255);
+    font-size: x-large;
+    text-emphasis-color: 25;
+}
+#carnes2 {    
+    color: rgb(255, 145, 0);
     font-size: x-large;
     text-emphasis-color: 25;
 }

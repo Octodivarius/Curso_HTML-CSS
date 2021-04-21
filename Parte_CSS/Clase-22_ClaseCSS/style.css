@@ -1,0 +1,25 @@
+/*por la etiqueta*/
+p{
+    color: rgb(43, 226, 67);
+    font-size: 40px;
+
+}
+
+/* por Clase */
+
+.parrafo{
+    color: crimson;
+
+
+}
+
+/* ID */
+
+#parra{
+    color: rgb(40, 20, 220);
+    font-size: 35px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
