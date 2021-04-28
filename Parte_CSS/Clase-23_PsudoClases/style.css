@@ -1,0 +1,39 @@
+/* Metodologia BEM */
+.main-nav{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0px;
+    margin: 20px;
+    border-color: red;
+    border:2px;
+    border-style: groove;
+    background-color: #13a4a4;
+}
+
+.main-nav__item{
+    display: inline-block;
+}
+
+.main-nav__item a{
+    color: aliceblue;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    background-color: blueviolet;
+}
+
+/* Pseudo clases */
+.main-nav__item a:hover{
+    color: aqua;
+}
+.main-nav__item a:active{
+color:red;
+}
+
+/* Pseudo Elemntos */
+.main-nav__item a::after{
+    content: " | ";
+}
+.main-nav__item a::before{
+        content: " | ";
+}
