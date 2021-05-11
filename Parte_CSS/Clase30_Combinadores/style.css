@@ -1,0 +1,24 @@
+/* hermano adjacente */
+h2 + p  {
+    color: red
+
+}
+
+/* Hermano General */
+
+h2 ~ h3{
+    color: aqua;
+}
+/* Hijos y descendencia */
+
+/* Hijos*/
+div > p {
+    color:royalblue
+
+}
+
+/* Descendientes */
+
+div p {
+    background-color: wheat;
+}
